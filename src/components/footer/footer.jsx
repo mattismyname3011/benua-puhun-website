@@ -35,12 +35,10 @@ function Footer() {
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63836.382001012265!2d116.7334900849204!3d-0.27044209776319755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2df6400b1561e059%3A0xdbd72251678428f9!2sBenua%20Puhun%2C%20Kec.%20Muara%20Kaman%2C%20Kabupaten%20Kutai%20Kartanegara%2C%20Kalimantan%20Timur!5e0!3m2!1sid!2sid!4v1689744157285!5m2!1sid!2sid"
                   // src="https://maps.google.com/maps?q=Dinas%20Perpustakaan%20Kota%20Samarinda,%20Dadi%20Mulya,%20Samarinda%20City,%20East%20Kalimantan,%20Indonesia&t=&z=13&ie=UTF8&iwloc=&output=embed"
                   frameBorder="0"
-                  // <iframe  width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                  //   scrolling="no"
                   marginHeight="0"
                   marginWidth="0"
                 ></iframe>
-                <a href="https://www.whatismyip-address.com"></a>
+                <a href="https://www.whatismyip-address.com" className=""></a>
                 <br />
 
                 <a href="https://www.embedgooglemap.net">map embed iframe</a>
