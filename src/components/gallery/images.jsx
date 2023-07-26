@@ -59,6 +59,10 @@ const Images = [
     id: 15,
     image: "img/15.jpg",
   },
+  {
+    id: 16,
+    image: "img/card-left.jpg",
+  },
 ];
 
 export default Images;
