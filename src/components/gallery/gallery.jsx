@@ -17,9 +17,7 @@ const ImagesMap = () => {
                   <h4>
                     <b4>{item.title}</b4>
                   </h4>
-                  {/* <p>Interior Design</p> */}
                 </div>
-                {/* <div className="bg-white h-16"></div> */}
               </div>
             </div>
           ))}

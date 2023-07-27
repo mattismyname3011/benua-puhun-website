@@ -59,6 +59,16 @@ const Images = [
     image: "img/15.jpg",
     title: "Foto Bersama Peserta Balap Ketinting",
   },
+  {
+    id: 16,
+    image: "img/kkn.jpg",
+    title: "Peninjauan Lokasi bersama Peserta KKN",
+  },
+  {
+    id: 17,
+    image: "img/mtq.jpg",
+    title: "Pelepasan Kalifah untuk Kegiatan MTQ",
+  },
   // {
   //   id: 16,
   //   image: "img/card-left.jpg",
