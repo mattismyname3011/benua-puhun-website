@@ -75,10 +75,16 @@ function Footer() {
             © Copyright 2023, Desa Benua Puhun. All Rights Reserved
           </div>
           <div className="text-white flex flex-row py-3 px-5 gap-x-5">
+            <a href="https://www.youtube.com/@KKN49_BenuaPuhun" target="_blank">
+              <i className="fab fa-youtube-square hover:text-black  fa-lg"></i>
+            </a>
             <a href="https://www.facebook.com/dinpus.kotasamarinda">
               <i className="fab fa-facebook-square hover:text-black  fa-lg"></i>
             </a>
-            <a href="https://www.instagram.com/dinasperpustakaan_samarinda/">
+            <a
+              href="https://www.instagram.com/kkn49_benuapuhun/"
+              target="_blank"
+            >
               <i className="fab fa-instagram-square hover:text-black  fa-lg"></i>
             </a>
           </div>

@@ -10,7 +10,7 @@ function Hero() {
         </p>
         <button>
           <a
-            href=""
+            href="/visi-misi"
             className="px-5 py-2 inline-block bg-cyan-500 text-white hover:bg-cyan-400 transition-colors mt-5 rounded-lg md:mt-10"
           >
             Get Started

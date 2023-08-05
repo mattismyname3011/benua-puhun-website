@@ -12,14 +12,18 @@ import Home from "./components/pages/home";
 import Docs from "./components/pages/docs";
 import Gallery from "./components/pages/gallery";
 import Error from "./components/pages/error";
+import About from "./components/pages/about";
+import Contact from "./components/pages/contact";
 
 const App = () => {
   return (
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/docs" element={<Docs />} />
+        <Route path="/visi-misi" element={<Docs />} />
         <Route path="/gallery" element={<Gallery />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />
         <Route path="/error" element={<Error />} />
         {/* <Route path="*" element={<Navigate to={<Error />} />} /> */}
         <Route path="/*" element={<Navigate to="/error" />} />
