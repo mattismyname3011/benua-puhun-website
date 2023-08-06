@@ -1,7 +1,6 @@
 const VisiMisi = () => {
   return (
     <div className="wrapper pb-36">
-      {/* bg-gradient-to-r from-green-400 to-cyan-500 */}
       <div className="lg:w-auto h-40 flex items-center justify-center">
         <span class="text-5xl italic font-semibold whitespace-nowrap text-white">
           <p class="underline ">Visi dan Misi</p>

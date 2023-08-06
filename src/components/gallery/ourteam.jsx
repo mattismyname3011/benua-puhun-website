@@ -62,12 +62,5 @@ const Teams = [
     name: "Wahyu Ramadhani",
     role: "Perlengkapan",
   },
-  //   {
-  //     id:,
-  //     img:,
-  //     alt:,
-  //     name:,
-  //     role:,
-  //   }
 ];
 export default Teams;

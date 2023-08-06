@@ -71,10 +71,6 @@ const Contact = () => {
                 id="message"
                 placeholder="Description..."
               ></textarea>
-              {/* <p class="text-gray-200 text-xs italic">
-                Re-size can be disabled by set by resize-none / resize-y /
-                resize-x / resize
-              </p> */}
             </div>
           </div>
           <div class="md:flex md:items-center">

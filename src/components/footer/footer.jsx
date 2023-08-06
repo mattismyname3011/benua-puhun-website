@@ -9,7 +9,6 @@ function Footer() {
               <hr />
               <br />
             </h3>
-            {/* PQCW+WWJ, Benua Puhun, Kec. Muara Kaman, Kabupaten Kutai Kartanegara, Kalimantan Timur 75553 */}
             <div className="text-white relative">
               <p>Benua Puhun</p>
               <p>Kec. Muara Kaman</p>
@@ -33,7 +32,6 @@ function Footer() {
                   height="200"
                   id="gmap_canvas"
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63836.382001012265!2d116.7334900849204!3d-0.27044209776319755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2df6400b1561e059%3A0xdbd72251678428f9!2sBenua%20Puhun%2C%20Kec.%20Muara%20Kaman%2C%20Kabupaten%20Kutai%20Kartanegara%2C%20Kalimantan%20Timur!5e0!3m2!1sid!2sid!4v1689744157285!5m2!1sid!2sid"
-                  // src="https://maps.google.com/maps?q=Dinas%20Perpustakaan%20Kota%20Samarinda,%20Dadi%20Mulya,%20Samarinda%20City,%20East%20Kalimantan,%20Indonesia&t=&z=13&ie=UTF8&iwloc=&output=embed"
                   frameBorder="0"
                   marginHeight="0"
                   marginWidth="0"
@@ -77,9 +75,6 @@ function Footer() {
           <div className="text-white flex flex-row py-3 px-5 gap-x-5">
             <a href="https://www.youtube.com/@KKN49_BenuaPuhun" target="_blank">
               <i className="fab fa-youtube-square hover:text-black  fa-lg"></i>
-            </a>
-            <a href="https://www.facebook.com/dinpus.kotasamarinda">
-              <i className="fab fa-facebook-square hover:text-black  fa-lg"></i>
             </a>
             <a
               href="https://www.instagram.com/kkn49_benuapuhun/"

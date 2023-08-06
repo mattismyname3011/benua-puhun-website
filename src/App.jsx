@@ -10,6 +10,7 @@ import viteLogo from "/vite.svg";
 
 import Home from "./components/pages/home";
 import Docs from "./components/pages/docs";
+import Structure from "./components/pages/struktur";
 import Gallery from "./components/pages/gallery";
 import Error from "./components/pages/error";
 import About from "./components/pages/about";
@@ -21,6 +22,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/visi-misi" element={<Docs />} />
+        <Route path="/structure" element={<Structure />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />

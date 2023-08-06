@@ -16,6 +16,9 @@ const Header = () => {
             <Link className="hover:underline" to="/visi-misi">
               visi & misi
             </Link>
+            <Link className="hover:underline" to="/structure">
+              struktur
+            </Link>
             <Link className="hover:underline" to="/gallery">
               gallery
             </Link>

@@ -1,16 +1,15 @@
 import Header from "../header/header";
-import Pdf from "../pdfviewer/pdf";
+import Structure from "../hero/struktur";
 import Footer from "../footer/footer";
-import VisiMisi from "../hero/visimisi";
 
-const Docs = () => {
+const Structure_Page = () => {
   return (
     <>
       <Header></Header>
-      <VisiMisi></VisiMisi>
+      <Structure></Structure>
       <Footer></Footer>
     </>
   );
 };
 
-export default Docs;
+export default Structure_Page;
